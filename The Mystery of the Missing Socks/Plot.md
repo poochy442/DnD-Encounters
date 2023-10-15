@@ -25,10 +25,10 @@ There is a maintenance tunnel into the sewers, protected by the guards of the to
 In the sewers, they will find a group of rats.
 Depending on how they approach them, they may get them in smaller groups, but there are a total of:
 
-- 21 [Rat](./Rat.pdf)s
-- 7 [Giant Rat](./Giant%20Rat.pdf)s
+- 21 [Rats](./Monsters/Rat.pdf)
+- 7 [Giant Rats](./Monsters/Giant%20Rat.pdf)
 
-Further down in a lair of its own, they will find the winged creature: a [Nabassu](./Nabassu.pdf)
+Further down in a lair of its own, they will find the winged creature: a [Nabassu](./Monsters/Nabassu.pdf)
 
 ## Extra notes
 
